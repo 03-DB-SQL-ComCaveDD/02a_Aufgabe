@@ -82,15 +82,15 @@
           "dT4UlvV2d2r2wmellpYII"
         ],
         "ui": {
-          "x": 560,
-          "y": 162,
+          "x": 542,
+          "y": 185,
           "zIndex": 32,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724337221511,
+          "updateAt": 1724338439483,
           "createAt": 1724336960722
         }
       }
@@ -217,8 +217,8 @@
           "columnIds": [
             "dT4UlvV2d2r2wmellpYII"
           ],
-          "x": 560,
-          "y": 226,
+          "x": 542,
+          "y": 249,
           "direction": 1
         },
         "meta": {
